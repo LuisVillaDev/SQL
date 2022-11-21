@@ -1,0 +1,29 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "hw 12",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisvilladev/github.com.git"
+  },
+  "keywords": [
+    "Employee",
+    "tracker"
+  ],
+  "author": "Luis Villa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisvilladev/github.com/issues"
+  },
+  "homepage": "https://github.com/luisvilladev/github.com#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.3",
+    "inquirer": "^9.1.4",
+    "mysql2": "^2.3.3"
+  }
+}
