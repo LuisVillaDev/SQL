@@ -1,7 +1,7 @@
 # SQL
 `SQL` challenge number 12 
 
-##DISCRIPTION 
+#DISCRIPTION 
 This was activity 12 in the UW bootcamp course
 
 ## Technologies used
